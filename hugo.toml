@@ -1,0 +1,15 @@
+baseURL = 'https://burnauta.com/'
+languageCode = 'en-us'
+title = 'Burnauta'
+theme = 'ananke'
+
+# Optional params
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # Choose a background color
+  background_color_class = "bg-black"
+  recent_posts_number = 3
